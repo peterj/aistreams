@@ -1,8 +1,8 @@
 # Episode 15: Model and LLM observability with Langfuse
 
-YouTube: [TBD](https://www.youtube.com/watch?v=IM1VzKDI9SI)
+[YouTube](https://www.youtube.com/watch?v=IM1VzKDI9SI)
 
-References:
+## Resources:
 
 - [Langfuse](https://langfuse.com)
 - [trulens](https://trulens.org)
