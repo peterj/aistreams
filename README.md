@@ -13,6 +13,7 @@ If you like the videos, consider subscribing to my [YouTube channel](https://www
 
 ## Episode list
 
+- [Episode 16: LLM: Tools, functions, and agents - building reservation system for a dental office](./016)
 - [Episode 15: Exploring LangFuse](./015)
 - [Episode 14: Exploring Rubra and gptscript](./014)
 - [Episode 13: Exploring LlamaIndex](./013)
